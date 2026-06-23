@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "SAATHI",
+    "slug": "saathi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": { "backgroundColor": "#7c3aed" },
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.saathi.app" },
+    "android": { "package": "com.saathi.app" }
+  }
+}
